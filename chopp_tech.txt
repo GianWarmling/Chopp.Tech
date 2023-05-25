@@ -1,0 +1,2 @@
+{'Nome': 'gian', 'Telefone': '123456789', 'CPF': '12345678', 'Endereço': 'dbashjfghda'}
+{'Chopp': 'P', 'Produto': 'B', 'Quantidade': 10, 'R$': 5000}
